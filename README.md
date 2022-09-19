@@ -8,5 +8,5 @@ Im Oktober 2020 hab ich meinen Bachelor an der
 und bin nun drauf und dran meine Kenntnisse in der Softwareentwicklung auszubauen,
 indem ich mich diversen Software-Projekten widme.
 
-Neben meiner GitHub-Seite finden sie unter http://sebamigo.github.io/
+Neben meiner GitHub-Seite finden sie unter http://arndt-tech.de/
 mein Online Portfolio!
