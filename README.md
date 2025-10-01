@@ -1,12 +1,3 @@
 # Sebastian Paul Arndt
-Hey, willkommen auf meiner GitHub-Seite!
-Hier finden sie eine Sammlung von einigen meiner Projekte.
-
-## Über mich
-Im Oktober 2020 hab ich meinen Bachelor an der
-[Technischen Universität Berlin](https://www.tu.berlin/) abgeschlossen
-und bin nun drauf und dran meine Kenntnisse in der Softwareentwicklung auszubauen,
-indem ich mich diversen Software-Projekten widme.
-
-Neben meiner GitHub-Seite finden sie unter http://arndt-tech.de/
-mein Online Portfolio!
+Hey, welcome to my GitHub page!
+Here you will find a collection of some of my projects and a portfolio repository of selected code components I have written. Enjoy browsing!
